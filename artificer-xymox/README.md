@@ -10,6 +10,8 @@ Mythic Artificer Xy'mox TL;DR (WIP)
   - This is a general strategic overview. Topics covered include: CD usage and timing, dealing with mechanics & difficult overlaps, and boss positioning.
 - **[Wowhead Guide](https://www.wowhead.com/guides/artificer-xymox-castle-nathria-raid-strategy-guide)**
   - This is not comprehensive but does have basic information on the majority of the fight mechanics.
+- **[Raidplan.io Map](https://raidplan.io/plan/ucYWGNVgrQT8MMtp)**
+  - Map of positioning for the fight. Made by Lissandine.
   
 Table of Contents
 =================
