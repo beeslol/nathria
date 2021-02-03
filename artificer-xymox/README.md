@@ -38,5 +38,7 @@ In mythic, if a player is hit by a spirit, they are now mind-controlled *until t
 
 **Important Mechanical Note: Spirits spawn behind the player**. This means it is important to be facing the direction in which the spirits will be kited. The boss *should* be positioned in such a way that everyone can be facing the correct direction when spirits come out without sacrificing damage.
 
+**TL;DR: Do not face your back toward the portal.**
+
 ## Portal Placement
 Portals will be positioned on opposite sides of the room *for the entire fight*. This is because spirits need to be kited and seeds need to be moved for the entire fight. During the big suck, instead of relying on a portal in the center of the room, raid movement CDs such as Wind Rush Totem and Stampeding Roar will be used.
