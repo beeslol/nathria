@@ -126,7 +126,7 @@ Once this set is finished, lust and burn boss.
 
 This is the most difficult seed set in the fight. Seeds will spawn toward the start of the annihilation, and most classes will need to use essentially their entire movement toolkit to deal with this set. 
 
-The exception to amove is DKs. A DK (including a tank DK, there is no Glyph of Destruction overlap here) can use [\[Death's Advance\]](https://www.wowhead.com/spell=48265/deaths-advance) to entirely negate the suck mechanic and move the seed without any difficulty. If there are DKs available, while they are not a good choice for running seeds the rest of the fight, it would be beneficial to assign them a seed on this set of seeds in particular because of how well suited they are for dealing with this overlap.
+The exception to this is DKs. A DK (including a tank DK, there is no Glyph of Destruction overlap here) can use [\[Death's Advance\]](https://www.wowhead.com/spell=48265/deaths-advance) to entirely negate the suck mechanic and move the seed without any difficulty. If there are DKs available, while they are not a good choice for running seeds the rest of the fight, it would be beneficial to assign them a seed on this set of seeds in particular because of how well suited they are for dealing with this overlap.
 
 Immunities (Hunter's turtle, mage's Ice Block) are useful on this set for seed runners. Instead of using all available movement to take the seed across the room, a player can move their seed and then immune the Annihilation & Seed explosion on the other side.
 
