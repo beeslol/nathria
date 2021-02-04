@@ -13,12 +13,20 @@ Mythic Artificer Xy'mox TL;DR (WIP)
 - **[Raidplan.io Map](https://raidplan.io/plan/ucYWGNVgrQT8MMtp)**
   - Map of positioning for the fight. Made by Lissandine.
   
+**Because of how early the third phase occurs, this guide will be organized according to when mechanics are happening and their overlaps.**
+  
 Table of Contents
 =================
 - [Introduction - What's new](#introduction)
   - [Phasing](#phasing)
   - [Fleeting Spirits](#fleeting-spirits)
   - [Portal Placement](#portal-placement)
+- [Walkthrough](#walkthrough)
+  - Spirits #1
+  - Seeds #1 + Spirits #2
+  - Seeds #2 + Spirits #3
+  - Seeds #3 + Spirits #4 + Annihilation #1
+  - Seeds #4 + Spirits #5
 
 <a name="introduction"></a>
 Introduction - What's new
@@ -44,3 +52,12 @@ In mythic, if a player is hit by a spirit, they are now mind-controlled *until t
 
 ## Portal Placement
 Portals will be positioned on opposite sides of the room *for the entire fight*. This is because spirits need to be kited and seeds need to be moved for the entire fight. During the big suck, instead of relying on a portal in the center of the room, raid movement CDs such as Wind Rush Totem and Stampeding Roar will be used.
+
+Walkthrough
+===========
+
+## Spirits 1
+## Seeds 1 + Spirits 2
+## Seeds 2 + Spirits 3
+## Seeds 3 + Spirits 4 + Annihilation 1
+## Seeds 4 + Spirits 5
