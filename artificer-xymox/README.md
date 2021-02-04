@@ -126,8 +126,14 @@ Once this set is finished, lust and burn boss.
 
 ## ⚠️ Seeds #4 + Spirits #5 + Annihilation #2
 
-This is the most difficult mechanics overlap in the fight.
+This is the most difficult seed set in the fight. Seeds will spawn toward the start of the annihilation, and most classes will need to use essentially their entire movement toolkit to deal with this set. 
+
+The exception to amove is DKs. A DK (including a tank DK, there is no Glyph of Destruction overlap here) can use [\[Death's Advance\]](https://www.wowhead.com/spell=48265/deaths-advance) to entirely negate the suck mechanic and move the seed without any difficulty. If there are DKs available, while they are not a good choice for running seeds the rest of the fight, it would be beneficial to assign them a seed on this set of seeds in particular because of how well suited they are for dealing with this overlap.
+
+Immunities (Hunter's turtle, mage's Ice Block) are useful on this set for seed runners. Instead of using all available movement to take the seed across the room, a player can move their seed and then immune the Annihilation & Seed explosion on the other side.
+
+There are no more spooky overlaps for the remainder of the fight. Take a deep breath and burn the boss the rest of the way.
 
 ## Seeds #5 + Spirits #6 + Annihilation #3
 
-Compared to previous sets, this one is incredibly straightforward. Each mechanic will happen with almost no overlap, and can all be dealt with individually (as in heroic).
+Compared to previous sets, this one is incredibly straightforward. Annihilation will be cast, and only *after* Annihilation finishes will Seeds and Spirits spawn. This makes these mechanics relatively simple to deal with. Thank Blizzard for giving you this easy set after the previous nightmare overlap and continue killing the boss.
