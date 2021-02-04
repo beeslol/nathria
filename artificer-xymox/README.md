@@ -1,6 +1,4 @@
-## ⚠️ If you're reading this on Tuesday, our first night of Xy'mox prog, this guide is probably very incomplete. Hopefully it will be more or less complete before Thursday.
-
-Mythic Artificer Xy'mox TL;DR (WIP)
+Mythic Artificer Xy'mox Overview
 ===================================
 
 **A lot of the info on this page is based on the video guide by Limit Max. I'd recommend watching if you have the time.**   
