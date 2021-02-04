@@ -23,12 +23,12 @@ Mechanics overlaps marked with ⚠️ should be paid special attention. Each has
   - [Portal Placement](#portal-placement)
   - [Offensive CDs](#offensive-cds)
 - [Walkthrough](#walkthrough)
-  - Spirits #1
-  - ⚠️ Seeds #1 + Spirits #2
-  - Seeds #2 + Spirits #3
-  - ⚠️ Seeds #3 + Spirits #4 + Annihilation #1
-  - ⚠️ Seeds #4 + Spirits #5 + Annihilation #2
-  - Seeds #5 + Spirits #6 + Annihilation #3
+  - [Spirits #1](#spirits-1)
+  - [⚠️ Seeds #1 + Spirits #2](#%EF%B8%8F-seeds-1--spirits-2)
+  - [Seeds #2 + Spirits #3](#seeds-2--spirits-3)
+  - [⚠️ Seeds #3 + Spirits #4 + Annihilation #1](#%EF%B8%8F-seeds-3--spirits-4--annihilation-1)
+  - [⚠️ Seeds #4 + Spirits #5 + Annihilation #2](#%EF%B8%8F-seeds-4--spirits-5--annihilation-2)
+  - [Seeds #5 + Spirits #6 + Annihilation #3](#seeds-5--spirits-6--annihilation-3)
 
 <a name="introduction"></a>
 Introduction - What's new
