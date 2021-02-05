@@ -101,7 +101,7 @@ The above image is taken from [this log](https://www.warcraftlogs.com/reports/14
 
 This first set of spirits is the easiest set to deal with, since it occurs with no other mechanics:
 - On pull, the boss will be taken to approximately the location shown above so ranged players can keep hitting him while doing spirits. 
-- Players will position themselves behind the boss so that they can easily kite their spirit into the portal on **Circle**.
+- Players will position themselves behind the boss so that they can easily kite their spirit into the portal on **Star**.
 
 ## ⚠️ Seeds #1 + Spirits #2
 ![Image depicting boss positioning for the second set of Fleeting Spirits and the first set of Seeds of Extinction](spirits-2-seeds-1.png)
