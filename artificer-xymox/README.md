@@ -99,36 +99,53 @@ The above image is taken from [this log](https://www.warcraftlogs.com/reports/14
 ## Spirits 1
 ![Image depicting boss positioning for the first set of Fleeting Spirits](spirits-1.png)
 
-This first set of spirits is the easiest set to deal with, since it occurs with no other mechanics. On pull, the boss will be taken to approximately the location shown above. The boss will be held here to allow ranged players to continue dealing damage as they kite their spirits. Players will position themselves behind the boss so that they can easily kite their spirit into the portal on **Circle**.
+This first set of spirits is the easiest set to deal with, since it occurs with no other mechanics:
+- On pull, the boss will be taken to approximately the location shown above so ranged players can keep hitting him while doing spirits. 
+- Players will position themselves behind the boss so that they can easily kite their spirit into the portal on **Circle**.
 
 ## ⚠️ Seeds #1 + Spirits #2
 ![Image depicting boss positioning for the second set of Fleeting Spirits and the first set of Seeds of Extinction](spirits-2-seeds-1.png)
 
-This second set of spirits is the first difficult set of the fight. The boss will be moved toward the entrance of the room, near **Square**. Seeds of extinction will spawn and seed runners will go to move their seeds. As seeds are spawning, spirits will be too. The rest of the raid will want to wait near **Square** to bait the spirits spawn. Once spirits have spawned the raid will move as a group toward the **Star** side wall (see image in the next section for final positioning), and people with spirits will use the portal after Seeds have exploded in order to escape their spirit.
+This second set of spirits is the first difficult set of the fight.
+- The boss will be moved toward the entrance of the room, near **Square**
+- Seeds of extinction will spawn and seed runners will move their seeds
+- Spirits will spawn shortly after seeds spawn
+  - The rest of the raid will stay near the door to bait the spirits spawn. Make sure to be behind the boss and face the melee portal on **Star** so that spirits spawn *behind* the raid.
+  - *After* the spirits spawn, the raid will move as a group toward the wall
+  - Once the seeds explode, fixated players will move into the portal on **Star** to kite their spirit away
 
 ## Seeds #2 + Spirits #3
 ![Image depicting the location in which the boss will remain for the rest of the fight](rest-of-fight.png)
 
 This set is relatively straightforward to deal with. Seeds will be moved, and once the seeds are about to explode, spirits will start spawning. Spirits can be kited normally. There is no real trick to dealing with this set.
 
-**Important Note** - It is around this set of mechanics where Xymox is reaching 60% hp, the start of phase 3. It is very important to **hold dps** and **do not push** Xymox to 60% until *after* the spirits have spawned. This is because when Xymox phases, he will remove the old set of portals and spawn new ones. If this happens at the wrong time, it will be much more difficult for people to kite their spirits as they will have no portal to run through.
+**Important Note** - Xy'mox will be nearing phase 3 (60%) as this set is starting. It is very important to **hold dps** and **do not push** Xymox to 60% until *after* the spirits have spawned. This is because when Xymox phases, he will remove the old set of portals and spawn new ones. If this happens at the wrong time, it will be much more difficult for people to kite their spirits as they will have no portal to run through.
 ** 
 
 ## ⚠️ Seeds #3 + Spirits #4 + Annihilation #1
 
-Running the seeds in this set is deceptively simple. The seeds will spawn a few seconds before the end of the Annihilation cast, leaving plenty of time for seeds to be run *after* the Annihilation ends.
+Running the seeds in this set is deceptively simple. The seeds will spawn a few seconds before the end of the Annihilation cast, leaving plenty of time for seeds to be run *after* the Annihilation ends. The spirits & seeds overlap is the more difficult part of this set.
 
-The spirits & seeds overlap is the more difficult part of this set. Spirits will spawn as Annihilation is ending, and players who are fixated by the spirits will want to *immediately* jump into the **Star** portal. Players will wait on the other side until the seeds are about to explode, and then re-enter the portal. This is done to allow the spirits as much time as possible to move away from the boss side of the room while allowing fixated players to live the seed explosion.
+A few seconds before Annihilation ends, seeds and spirits will spawn.
+- Seeds can be moved *after* annihilation ends, there is plenty of time
+- Player fixated by spirits should go into the portal immediately
+- Fixated players should wait until the seeds are about to explode, *and then* use the portal to return to the boss
+  - This allows the spirits as much time as possible to move toward the middle of the room while allowing fixated players to live the explosion
 
-Once this set is finished, lust and burn boss. 
+Once this set is finished, **lust and burn boss**. 
 
 ## ⚠️ Seeds #4 + Spirits #5 + Annihilation #2
 
-This is the most difficult seed set in the fight. Seeds will spawn toward the start of the annihilation, and most classes will need to use essentially their entire movement toolkit to deal with this set. 
+This is the most difficult seed set in the fight. 
 
-The exception to this is DKs. A DK (including a tank DK, there is no Glyph of Destruction overlap here) can use [\[Death's Advance\]](https://www.wowhead.com/spell=48265/deaths-advance) to entirely negate the suck mechanic and move the seed without any difficulty. If there are DKs available, while they are not a good choice for running seeds the rest of the fight, it would be beneficial to assign them a seed on this set of seeds in particular because of how well suited they are for dealing with this overlap.
-
-Immunities (Hunter's turtle, mage's Ice Block) are useful on this set for seed runners. Instead of using all available movement to take the seed across the room, a player can move their seed and then immune the Annihilation & Seed explosion on the other side.
+Seeds spawn toward the start of Annihilation.
+  - Seed runners will need to use whatever movement they have to move the seeds
+  - DKs (including tanks) are well suited for this set in particular. [\[Death's Advance\]](https://www.wowhead.com/spell=48265/deaths-advance) can be used to entirely negate the suck
+  - Seed runners with immunities (Hunters, Mages) can use their immunity here on the other side of the portal in order to live
+  
+Spirits spawn several seconds before the Annihilation.
+  - Players who are fixated should *immediately* jump into the portal
+  - As Annihilation starts, fixated players return through the portal and run into the wall with the rest of the raid
 
 There are no more spooky overlaps for the remainder of the fight. Take a deep breath and burn the boss the rest of the way.
 
