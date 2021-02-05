@@ -143,7 +143,7 @@ Seeds spawn toward the start of Annihilation.
   - DKs (including tanks) are well suited for this set in particular. [\[Death's Advance\]](https://www.wowhead.com/spell=48265/deaths-advance) can be used to entirely negate the suck
   - Seed runners with immunities (Hunters, Mages) can use their immunity here on the other side of the portal in order to live
   
-Spirits spawn several seconds before the Annihilation.
+Spirits spawn several seconds *before* the Annihilation.
   - Players who are fixated should *immediately* jump into the portal
   - As Annihilation starts, fixated players return through the portal and run into the wall with the rest of the raid
 
