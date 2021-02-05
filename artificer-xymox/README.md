@@ -124,7 +124,7 @@ This set is relatively straightforward to deal with. Seeds will be moved, and on
 
 ## ⚠️ Seeds #3 + Spirits #4 + Annihilation #1
 
-Running the seeds in this set is deceptively simple. The seeds will spawn a few seconds before the end of the Annihilation cast, leaving plenty of time for seeds to be run *after* the Annihilation ends. The spirits & seeds overlap is the more difficult part of this set.
+Running the seeds in this set is simpler than it may seem at first. The spirits & seeds overlap is the more difficult part of this set.
 
 A few seconds before Annihilation ends, seeds and spirits will spawn.
 - Seeds can be moved *after* annihilation ends, there is plenty of time
