@@ -96,7 +96,7 @@ Walkthrough
 ![Image depicting the timings of the various mechanics](artificer-xymox-mechanics-timings.png)
 The above image is taken from [this log](https://www.warcraftlogs.com/reports/14mdH7fwBNQVrPFY#fight=24&type=auras&spells=debuffs&ability=327902&pins=0%24Separate%24%23244F4B%24casts%241%240.0.0.Any%240.0.0.Any%24true%240.0.0.Any%24true%24329834%7C340788%5E0%24Separate%24%23909049%24casts%241%240.0.0.Any%240.0.0.Any%24true%240.0.0.Any%24true%24328789) on warcraftlogs. It depicts the relative timings of the 3 major mechanics players will have to deal with during the fight. This log was chosen because it was a ~6 minute kill which, at the time this was being written, was the average kill time for Artificer Xy'mox.
 
-## Spirits 1
+## Spirits #1
 ![Image depicting boss positioning for the first set of Fleeting Spirits](spirits-1.png)
 
 This first set of spirits is the easiest set to deal with, since it occurs with no other mechanics:
