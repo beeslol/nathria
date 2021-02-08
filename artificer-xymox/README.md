@@ -1,5 +1,6 @@
-Mythic Artificer Xy'mox Overview
+Mythic Artificer Xy'mox* Overview
 ===================================
+* - ['zaɪ.mɑks]
 
 **A lot of the info on this page is based on the video guide by Limit Max. I'd recommend watching if you have the time.**   
 
